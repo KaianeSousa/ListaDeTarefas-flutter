@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'routes/formulario.dart';
-import 'routes/listaDeTarefas.dart';
+import 'screens/formulario.dart';
+import 'screens/listaDeTarefas.dart';
 
 void main() {
   runApp(const MyApp());
