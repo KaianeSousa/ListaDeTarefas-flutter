@@ -46,7 +46,7 @@ _incrementCounter() async {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text("Sem Persistência")),
+        appBar: AppBar(title: Text("Com Persistência")),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
